@@ -35,6 +35,7 @@ After training, the generator model can be loaded into the Streamlit app to crea
 ## Dependencies
 
 Install all required packages using:
+
 pip install tensorflow keras numpy pandas matplotlib streamlit
 
 
